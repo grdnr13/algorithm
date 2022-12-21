@@ -1,6 +1,6 @@
 # algorithm
 
-Solving Algorithm Problems in [Baekjoon Online Judge website](https://www.acmicpc.net/)
+Solving algorithm problems in [Baekjoon Online Judge website](https://www.acmicpc.net/)
 
 
 
